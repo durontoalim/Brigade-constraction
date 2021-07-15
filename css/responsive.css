@@ -1,0 +1,325 @@
+@media only screen and (max-width: px) {}
+
+@media only screen and (max-width: 1200px) {
+
+    .container-sliedx {
+
+        margin-top: 70px;
+    }
+
+    .img-relative h5 {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .container-sliedx {
+        width: 70%;
+    }
+
+    .container-sliedx {
+        margin-top: 0px;
+    }
+
+    .container-sliedx h2 {
+        margin-top: 0px;
+    }
+
+    .out-boxed-back {
+        display: none;
+    }
+
+    .topnav {
+        display: block;
+    }
+
+    .primaryrapper {
+        display: none;
+    }
+
+    .Phone {
+        width: 100%;
+    }
+
+    .email {
+        width: 50%;
+    }
+
+    .social {
+        width: 50%;
+    }
+
+    .servicebox1 {
+        width: 100%;
+    }
+
+    .servicebox4 {
+        width: 100%;
+    }
+
+    .image-left {
+        width: 100%;
+    }
+
+    .full-box-div {
+        width: 95%;
+        padding-top: 30px;
+    }
+
+    .box-one-one {
+        width: 80%;
+        margin: auto;
+        padding: 20px 0px;
+        margin-left: 10%;
+        text-align: center;
+    }
+
+    .priceplan-box-one {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    .price-plan-box {
+        padding-left: 20%;
+    }
+
+    .background-cheakout {
+        width: 100%;
+    }
+
+    .information-cheak-out-box {
+        width: 100%;
+    }
+
+    .frist-cullom.box1 {
+        width: 80%;
+        margin: 0px 10%;
+        margin-bottom: 25px;
+    }
+
+    .frist-cullom.box1 img {
+        width: 99%;
+    }
+
+    .frist-cullom.box2 {
+        width: 80%;
+        margin: 0px 10%;
+        margin-bottom: 25px;
+    }
+
+    .frist-cullom.box2 img {
+        width: 99%;
+    }
+
+    .frist-cullom.box3 {
+        width: 80%;
+        margin: 0px 10%;
+        margin-bottom: 25px;
+    }
+
+    .frist-cullom.box3 img {
+        width: 98%;
+    }
+
+    .frist-cullom.box4 {
+        width: 80%;
+        margin: 0px 10%;
+        margin-bottom: 25px;
+    }
+
+    .frist-cullom.box4 img {
+        width: 99%;
+    }
+
+    .frist-cullom.box5 {
+        width: 80%;
+        margin: 0px 10%;
+        margin-bottom: 25px;
+    }
+
+    .frist-cullom.box5 img {
+        width: 99%;
+    }
+
+    .frist-cullom.box6 {
+        width: 80%;
+        margin: 0px 10%;
+        margin-bottom: 25px;
+    }
+
+    .frist-cullom.box6 img {
+        width: 97%;
+    }
+
+    .image-par-boxed1 {
+        width: 100%;
+    }
+
+    .image-par-boxed2 {
+        width: 100%;
+    }
+
+    .image-par-boxed3 {
+        width: 100%;
+    }
+
+    .date-times::after {
+        margin-top: -154px;
+        margin-left: 20%;
+    }
+
+    .footer-aboutus {
+        width: 40%;
+        padding-bottom: 40px;
+        float: left;
+    }
+
+    .footer-contact-us {
+        width: 60%;
+        padding-bottom: 40px;
+        float: right;
+    }
+
+    .footer-usefull-links {
+        width: 40%;
+        float: left;
+        clear: left;
+        padding-bottom: 20px;
+    }
+
+    .footer-recent-post {
+        width: 60%;
+        float: right;
+        padding-bottom: 20px;
+    }
+
+    .footer-date-box {
+        width: 90px;
+        margin-right: 20px;
+    }
+
+    @media only screen and (min-width: 320px) and (max-width: 768px) {
+        .email {
+            width: 100%;
+        }
+
+        .social {
+            width: 100%;
+        }
+
+        .container-sliedx h2 {
+            margin-top: 0px;
+            font-size: 30px;
+        }
+
+        .one-box i {
+            font-size: 30px;
+        }
+
+        .one-box b {
+            font-size: 30px;
+        }
+
+        .one-box h2 {
+            font-size: 18px;
+            padding-top: 20px;
+        }
+
+        .member-details {
+            width: 50%;
+        }
+    }
+
+    @media only screen and (min-width: 320px) and (max-width: 567px) {
+        .full-box-div {
+            margin-left: 0;
+        }
+
+        .one-box {
+            width: 50%;
+        }
+
+        .logo-inf-par {
+            width: 100%;
+        }
+
+        .information-cheak-out-box {
+            height: auto;
+        }
+
+        .footer-aboutus {
+            width: 100%;
+        }
+
+        .footer-contact-us {
+            width: 100%;
+        }
+
+        .footer-usefull-links {
+            width: 100%;
+        }
+
+        .footer-recent-post {
+            width: 100%;
+        }
+
+        .email {
+            font-size: 12px;
+        }
+
+        .Phone {
+            font-size: 12px;
+        }
+
+        #workwithus {
+            font-size: 15px;
+        }
+
+        .headline1 h2 {
+            font-size: 20px;
+        }
+
+        h2 {
+            font-size: 26px !important;
+        }
+
+        .box-one-one h2 {
+            font-size: 20px;
+        }
+
+        .box-one-two h2 {
+            font-size: 20px;
+        }
+
+        .box-one-three h2 {
+            font-size: 20px;
+        }
+
+        .dollar-currency {
+            font-size: 35px;
+        }
+
+        .btn-getstarted {
+            font-size: 12px;
+        }
+
+        .cheak-out-our h5 {
+            font-size: 25px;
+        }
+
+        .logo-inf-par h5 {
+            font-size: 15px;
+        }
+
+        .img-relative h5 {
+            font-size: 16px;
+        }
+
+        .img-relative {
+            height: 145px;
+        }
+
+        .member-details {
+            width: 80%;
+        }
+    }
